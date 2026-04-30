@@ -1,4 +1,4 @@
-# 🚑 ReliefNet — AI-Powered Crisis Coordination System
+# ReliefNet — AI-Powered Crisis Coordination System
 
 > Coordinate relief with intelligence.
 
@@ -6,77 +6,77 @@ ReliefNet is a real-time, AI-driven crisis coordination platform that connects N
 
 ---
 
-## 🌍 Overview
+## Overview
 
 ReliefNet transforms chaotic disaster response into structured, data-driven coordination.  
 From reporting a need to resolving it, the entire pipeline is automated using AI.
 
-- 📊 **2,400+ Needs Resolved**
-- 🙋 **340 Active Volunteers**
-- ⚡ **2h Average Response Time**
-- 🤖 **94% AI Accuracy**
+- **2,400+ Needs Resolved**
+- **340 Active Volunteers**
+- **2h Average Response Time**
+- **94% AI Accuracy**
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🤖 AI Intelligence
+### AI Intelligence
 - Instant text classification (category, urgency, priority score)
 - Image analysis using Gemini Vision
 - AI reasoning for every decision
 - Fallback keyword-based classification
 
-### 🎯 Smart Matching
+### Smart Matching
 - Haversine-based volunteer matching  
 - Weighted scoring:
   - 60% Skill match  
   - 40% Distance  
 
-### 📡 Real-Time System
+###  Real-Time System
 - Live dashboard for coordinators  
 - Task lifecycle tracking (Assigned → In Progress → Resolved)  
 - Live crisis map (Leaflet.js)  
 
-### 🔐 Security & Auth
+###  Security & Auth
 - JWT-based authentication  
 - Role-based access control  
 
 ---
 
-## 🔄 How It Works
+##  How It Works
 
-### 1️⃣ Report a Need
+###  Report a Need
 Users submit requests via text or image (no login required).
 
-### 2️⃣ AI Classifies
+###  AI Classifies
 - Category: Medical, Food, Water, Shelter  
 - Urgency Level  
 - Priority Score (1–100)  
 - Reasoning  
 
-### 3️⃣ Volunteers Matched
+###  Volunteers Matched
 Best volunteers are ranked based on skills + proximity.
 
-### 4️⃣ Mission Resolved
+###  Mission Resolved
 Tasks are tracked in real time until completion.
 
 ---
 
-## 👥 User Roles
+##  User Roles
 
-### 🎯 Coordinator (Admin / NGO)
+###  Coordinator (Admin / NGO)
 - Manage all requests  
 - Assign volunteers  
 - Monitor dashboard & map  
 - Trigger AI re-analysis  
 
-### 🙋 Volunteer (Field Agent)
+###  Volunteer (Field Agent)
 - View assigned tasks  
 - Update progress in real time  
 - Toggle availability  
 - Manage skills/profile  
 
-### 📋 Reporter (Community)
+###  Reporter (Community)
 - Submit needs without login  
 - Upload photos for AI analysis  
 - Track request status  
@@ -84,7 +84,7 @@ Tasks are tracked in real time until completion.
 
 ---
 
-## 🧠 Example AI Output
+##  Example AI Output
 
 ```json
 {
